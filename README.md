@@ -118,7 +118,7 @@ The best model is selected based on validation accuracy. The confusion matrix an
 ## How to Run
 
 1. Clone this repository.
-2. Open the notebook in a Jupyter environment or Kaggle.
+2. Open the notebook in a Python environment or Kaggle.
 3. Run all cells sequentially to reproduce the results.
 
 ---
