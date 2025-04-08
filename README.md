@@ -1,6 +1,6 @@
 # System Threat Forecaster
 
-This repository contains a Jupyter Notebook for building a machine learning pipeline to predict system threats. The notebook includes data preprocessing, exploratory data analysis (EDA), feature engineering, model training, hyperparameter tuning, and evaluation.
+This repository contains a Pyhton Notebook for building a machine learning pipeline to predict system threats. The notebook includes data preprocessing, exploratory data analysis (EDA), feature engineering, model training, hyperparameter tuning, and evaluation.
 
 ## Table of Contents
 - [Overview](#overview)
@@ -123,6 +123,3 @@ The best model is selected based on validation accuracy. The confusion matrix an
 
 ---
 
-## Author
-
-This notebook was created as part of a Kaggle competition. Contributions and suggestions are welcome!
